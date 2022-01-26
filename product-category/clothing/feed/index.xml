@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Clothing &#8211; Wow2</title>
+	<atom:link href="/product-category/clothing/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 22 Jan 2022 10:46:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Woo Logo</title>
+		<link>/product/woo-logo-2</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:12:55 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=60</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus iaculis euismod. Duis ultricies, eros eget lobortis condimentum, dui orci venenatis quam, vel malesuada nibh enim sit amet ex. Etiam convallis tincidunt elit in lacinia. Proin feugiat leo lacus, eget ultrices orci vehicula.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ninja Silhouette</title>
+		<link>/product/ninja-silhouette-2</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:07:19 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=56</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus iaculis euismod. Duis ultricies, eros eget lobortis condimentum, dui orci venenatis quam, vel malesuada nibh enim sit amet ex. Etiam convallis tincidunt elit in lacinia. Proin feugiat leo lacus, eget ultrices orci vehicula.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Happy Ninja</title>
+		<link>/product/happy-ninja-2</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:05:37 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=53</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hoodie With Patient Ninja Print</title>
+		<link>/product/patient-ninja</link>
+					<comments>/product/patient-ninja#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:03:56 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=50</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus iaculis euismod. Duis ultricies, eros eget lobortis condimentum, dui orci venenatis quam, vel malesuada nibh enim sit amet ex. Etiam convallis tincidunt elit in lacinia. Proin feugiat leo lacus, eget ultrices orci vehicula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/patient-ninja/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Woo Ninja</title>
+		<link>/product/woo-ninja-2</link>
+					<comments>/product/woo-ninja-2#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:02:31 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=47</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/woo-ninja-2/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ship Your Idea</title>
+		<link>/product/ship-your-idea-2</link>
+					<comments>/product/ship-your-idea-2#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:00:28 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=40</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/ship-your-idea-2/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Happy Ninja</title>
+		<link>/product/happy-ninja</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:53:15 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=37</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Woo Ninja</title>
+		<link>/product/woo-ninja</link>
+					<comments>/product/woo-ninja#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:52:06 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=34</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus iaculis euismod. Duis ultricies, eros eget lobortis condimentum, dui orci venenatis quam, vel malesuada nibh enim sit amet ex. Etiam convallis tincidunt elit in lacinia. Proin feugiat leo lacus, eget ultrices orci vehicula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/woo-ninja/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Black Ninja Silhouette T-Shirt</title>
+		<link>/product/black-ninja-silhouette-t-shirt</link>
+					<comments>/product/black-ninja-silhouette-t-shirt#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:49:51 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=31</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus iaculis euismod. Duis ultricies, eros eget lobortis condimentum, dui orci venenatis quam, vel malesuada nibh enim sit amet ex. Etiam convallis tincidunt elit in lacinia. Proin feugiat leo lacus, eget ultrices orci vehicula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/black-ninja-silhouette-t-shirt/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ship Your Idea</title>
+		<link>/product/ship-your-idea</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:46:01 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.woothemes.com/woocommerce/?post_type=product&#038;p=22</guid>
+
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
